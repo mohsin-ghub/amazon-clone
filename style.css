@@ -31,10 +31,15 @@
     width: 100%;
 }
 .nav-address{
-    margin-top: 5px;
+    width: 90px;
+    height: 50px;
+    /* margin-top: 5px;
     margin-bottom: 5px;
     margin-right: 2px;
-    padding: 0 9px 0 9px;
+    padding: 0 9px 0 9px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .address-icon{
     display: flex;
@@ -69,7 +74,9 @@
     width: 100%;
     font-size: 1rem;
     border: none;
+    outline: none;
 }
+
 .search-icon{
     width: 45px;
     display: flex;
@@ -79,4 +86,63 @@
     background-color: rgb(199, 157, 31);
     border-radius: 0 3px 3px 0;
     border: none;
+}
+.nav-account{
+    width: 100px;
+    height: 50px;
+    background-color: #0f1111;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hello{
+    font-size: 0.7rem;
+}
+.account{
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
+.nav-returns {
+    width: 80px;
+    height: 50px;
+    background-color: #0f1111;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.return{
+    font-size: 0.7rem;
+}
+.order{
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
+.nav-cart i{
+    font-size: 25px;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.pannel{
+    height: 40px;
+    width: 100%;
+    background-color: #222f3d;
+    color: white ;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+}
+.pannel-all{
+    padding: 8px 9px;
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.pannel-ops p{
+    display:inline;
+    padding:8px 5px 8px 5px;
+    font-size: 0.85rem;
 }
