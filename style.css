@@ -146,3 +146,48 @@
     padding:8px 5px 8px 5px;
     font-size: 0.85rem;
 }
+.hero-section{
+    background-image: url(./images/hero-image.jpg);
+    background-size: cover;
+    height: 350px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.hero-msg{
+    background-color: white;
+    color:black;
+    height: 40px;
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    margin-bottom: 20px;
+}
+.hero-msg a{
+    text-decoration: none;
+}
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(234, 183, 234);
+}
+.box{
+    width: 20%;
+    height: 380px;
+    background-color: white;
+    padding: 20px 10px 15px 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.box-img{
+    margin-top: 2rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+}
