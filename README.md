@@ -62,9 +62,9 @@ To make your Amazon clone live online:
    - Update the **Live Demo** link in this README with your actual URL.
 
 ## Screenshots
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image.png)
+(image-1.png)
+(image-2.png)
+(image.png)
 ## Live Demo
 
 [View Live Demo](https://your-username.github.io/amazon-clone/)
