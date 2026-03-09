@@ -42,24 +42,6 @@ To view this project locally on your machine:
      ```
      Then open [http://localhost:8080](http://localhost:8080) in your browser.
 
-## How to Host on GitHub Pages
-
-To make your Amazon clone live online:
-
-1. **Push to GitHub**:
-   - Create a new repository on GitHub (e.g., `amazon-clone`).
-   - Push your code to the repository.
-
-2. **Enable GitHub Pages**:
-   - Go to your repository on GitHub.
-   - Click on **Settings** > **Pages**.
-   - Under **Source**, select **Deploy from a branch**.
-   - Choose the `main` branch and `/ (root)` folder.
-   - Click **Save**.
-
-3. **Access Your Live Site**:
-   - GitHub will provide a URL like `https://your-username.github.io/amazon-clone/`.
-   - Update the **Live Demo** link in this README with your actual URL.
 
 ## Screenshots
 ![Screen-shot1](image-1.png)
@@ -67,9 +49,8 @@ To make your Amazon clone live online:
 ![Screen-shot3](image-3.png)
 ## Live Demo
 
-[View Live Demo](https://mohisn-gub.github.io/amazon-clone/)
+[View Live Demo](https://mohsin-ghub.github.io/amazon-clone/)
 
-*Replace `your-username` with your actual GitHub username in the link above.*
 
 ## Contributing
 
