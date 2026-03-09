@@ -67,7 +67,7 @@ To make your Amazon clone live online:
 ![Screen-shot3](image-3.png)
 ## Live Demo
 
-[View Live Demo](https://your-username.github.io/amazon-clone/)
+[View Live Demo](https://mohisn-gub.github.io/amazon-clone/)
 
 *Replace `your-username` with your actual GitHub username in the link above.*
 
